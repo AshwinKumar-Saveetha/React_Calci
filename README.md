@@ -1,5 +1,5 @@
 # Ex04 Simple Calculator - React Project
-## Date:22.09.2025
+## Date:17.09.2025
 
 ## AIM
 To  develop a Simple Calculator using React.js with clean and responsive design, ensuring a smooth user experience across different screen sizes.
